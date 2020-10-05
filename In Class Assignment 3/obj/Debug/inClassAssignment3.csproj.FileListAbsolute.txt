@@ -1,0 +1,10 @@
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\bin\Debug\inClassAssignment3.exe.config
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\bin\Debug\inClassAssignment3.exe
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\bin\Debug\inClassAssignment3.pdb
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.csprojAssemblyReference.cache
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.Form1.resources
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.Properties.Resources.resources
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.csproj.GenerateResource.cache
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.exe
+C:\Users\marka\source\repos\inClassAssignment3\inClassAssignment3\obj\Debug\inClassAssignment3.pdb
